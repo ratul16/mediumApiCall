@@ -15,7 +15,7 @@ The result will be something like this and in JSON format
 
 ![JSON](apijson.jpg)
 
-Now just fetch the object and you are done !
+Now just fetch the object and you are done !! 😋😋
 
 ```js
 
