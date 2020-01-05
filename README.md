@@ -28,4 +28,4 @@ fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@USE
 
 ```
 
-Check out the demo in here : " https://codepen.io/Jack_Frost/pen/yLypLZE?editors=1010 "
+Check out the demo here : https://codepen.io/Jack_Frost/pen/yLypLZE?editors=1010 
